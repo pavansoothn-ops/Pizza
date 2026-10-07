@@ -1,0 +1,22 @@
+body{
+    background-image: url(photo7.avif);
+    background-repeat: no-repeat;
+    background-size: 1600px 750px;
+}
+h1,h2{
+    color: red;
+    font-size: 50px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: black (77, 63, 70);
+    font-size: 15px;
+}
+h1,h2{
+    margin-left: 500px;
+}
+#text1{
+    margin-left: 850px;
+}

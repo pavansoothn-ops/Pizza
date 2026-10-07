@@ -1,0 +1,31 @@
+body{
+    background-image: url(photo2.jpeg);
+    background-repeat: no-repeat;bottom;
+    background-size:1600px 750px;
+}
+h1{
+    color: orange;
+    font-size: 50px;
+}
+label{
+    color: white;
+    font-size: 25px;
+    font-weight:bold;
+}
+input{
+    width: 300px;
+    height: 20px;
+    border-radius: 10px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+}
+p{
+    color: white;
+    font-size: 20px;
+}
